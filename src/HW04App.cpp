@@ -2,7 +2,7 @@
 #include "cinder/gl/gl.h"
 #include "greggjsStarbucks.h"
 #include "boost/date_time/posix_time/posix_time.hpp"
-#include <vector.h>
+#include <vector>
 
 using namespace ci;
 using namespace ci::app;
